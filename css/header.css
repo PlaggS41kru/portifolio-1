@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  margin: 2rem 0;
+  gap: 1rem;
+}
+  
+a {
+  color: #111827;
+  font-size: 1.25rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+  
+a:hover {
+  color: #0059ff;
+  transition: .3s ease-in-out;
+}
