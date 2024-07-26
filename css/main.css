@@ -91,3 +91,10 @@ main ul{
   display: flex;
   justify-content: center;
 }
+
+.projects a{
+  align-items:center ;
+  display: flex;
+  flex-direction: column;
+  font-weight: 700;
+}
