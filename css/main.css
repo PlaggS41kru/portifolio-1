@@ -73,11 +73,13 @@ main {
 .bio h2{
   display: flex;
   justify-content: center;
+  color: aqua;
 }
 
 .habilidades h2{
   display: flex;
   justify-content: center;
+  color:aqua;
 }
 
 
@@ -85,11 +87,13 @@ main {
   display: flex;
   justify-content: center;
   margin-top: 25px;
+  color: aqua;
 }
 
 main ul{
   display: flex;
   justify-content: center;
+  font-size: 18px;
 }
 
 .projects a{
@@ -97,4 +101,21 @@ main ul{
   display: flex;
   flex-direction: column;
   font-weight: 700;
+}
+
+.projects img{
+  width: 400px;
+  height: 200px;
+}
+
+.tecnologia{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.tecnologia img{
+  width: 50px;
+  height: 50px;
 }
