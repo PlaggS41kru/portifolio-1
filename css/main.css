@@ -29,6 +29,7 @@ main {
   max-width: 24rem;
   border-radius: 100%;
   box-shadow: 4px 8px 12px #6b7280;
+  object-fit: fill;
 }
 
 .redes_contato{
